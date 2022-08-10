@@ -27,7 +27,7 @@ This documentation has been divided into three section for now and is very likel
 
 ## Utility Commands
 * $ping - Get the bot's ping! (has a slash variation)
-* $help or $documentation or $docs - Get the link to the bot's documentation!
+* $documentation or $docs - Get the link to the bot's documentation!
 * $oc or $OC - Request for the Senate to complete your OC! (has a slash variation)
 * $vault <amount> - Request money from the faction vault! (has a slash variation)
    
@@ -38,3 +38,4 @@ This documentation has been divided into three section for now and is very likel
 * /oc - Request for the Senate to complete your OC! 
 * /vault <amount> - Request money from the faction vault!
 * /xanax <amount> - Request xanax for chain!
+* /documentation - Get the link for the bot's documentation!
