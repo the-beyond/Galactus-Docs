@@ -32,6 +32,7 @@ This documentation has been divided into three section for now and is very likel
 * $vault <amount> - Request money from the faction vault! (has a slash variation)
    
    Example. $vault $100,000
+* $xan [amount] or $xanax [amount] - Request xanax for chains! [amount defaults to 1 if left empty] (has a slash variation)
 
 ## Slash Commands
 * /ping - Get the bot's ping! 
