@@ -42,3 +42,4 @@ This documentation has been divided into three section for now and is very likel
 * /vault <amount> - Request money from the faction vault!
 * /xanax <amount> - Request xanax for chain!
 * /documentation - Get the link for the bot's documentation!
+* /feedback <feedback_type> <message> - Send feeback about the bot that will remain private!
