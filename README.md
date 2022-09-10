@@ -49,7 +49,7 @@ PLEASE NOTE - Slash commands can only use the ```/``` prefix (Be sure to make su
 * ```/factioncompanies``` - Gives links to all the faction companies!
 * ```/beyondthetabletops``` - Get info about the tabletop server!
 * ```/oc``` - Request for the Senate to complete your OC! 
-* ```/vault <amount: amount of money>``` - Request money from the faction vault, please use commas Ex. 1,000,000!
+* ```/vault <amount: amount of money>``` - Request money from the faction vault, please use commas Ex. 1,000,000
 * ```/xanax <amount: amount of xanax>``` - Request xanax for chain!
 * ```/documentation``` - Get the link for the bot's documentation!
 * ```/feedback <feedback_type: Dropdown menu of applicabe feedback types> <message: whatever you feedback message is> [anonymous: whether you want it anonymous or not]``` - Send feeback about the bot that will remain private!
