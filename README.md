@@ -40,20 +40,22 @@ PLEASE NOTE - Slash commands can only use the ```/``` prefix (Be sure to make su
    
    Example. ```$xan 2```
 
-## Slash Commands
+## Slash Commands (Utility)
 * ```/ping``` - Get the bot's ping! 
-* ```/invite``` - Get the discord invite!
-* ```/factionlink``` - Get the faction link!
-* ```/statbook``` - Get the statbook link!
-* ```/tornstats``` - Get the tornstats link!
-* ```/factioncompanies``` - Gives links to all the faction companies!
-* ```/beyondthetabletops``` - Get info about the tabletop server!
 * ```/oc``` - Request for the Senate to complete your OC! 
 * ```/vault <amount: amount of money>``` - Request money from the faction vault, please use commas Ex. 1,000,000
 * ```/xanax <amount: amount of xanax>``` - Request xanax for chain!
 * ```/documentation``` - Get the link for the bot's documentation!
 * ```/feedback <feedback_type: Dropdown menu of applicabe feedback types> <message: whatever you feedback message is> [anonymous: whether you want it anonymous or not]``` - Send feeback about the bot that will remain private!
 * ```/ticket <issue: describe the bug or issue> <message: Do you want messaged to discuss further?>``` - Submit a ticket about the bot!
+
+## Slash Commands (Links)
+* ```/invite``` - Get the discord invite!
+* ```/factionlink``` - Get the faction link!
+* ```/statbook``` - Get the statbook link!
+* ```/tornstats``` - Get the tornstats link!
+* ```/factioncompanies``` - Gives links to all the faction companies!
+* ```/beyondthetabletops``` - Get info about the tabletop server!
 
 ## Moderation (Senate) Commands
 ### These commands will only function when used by Senate (or other applicable roles) and will merely throw an error at others. 
