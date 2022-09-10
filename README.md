@@ -41,6 +41,8 @@ PLEASE NOTE - Slash commands can only use the ```/``` prefix (Be sure to make su
 
 ## Slash Commands
 * ```/ping``` - Get the bot's ping! 
+* ```/invite``` - Get the discord invite!
+* ```/factionlink``` - Get the faction link!
 * ```/oc``` - Request for the Senate to complete your OC! 
 * ```/vault <amount: amount of money>``` - Request money from the faction vault, please use commas Ex. 1,000,000!
 * ```/xanax <amount: amount of xanax>``` - Request xanax for chain!
