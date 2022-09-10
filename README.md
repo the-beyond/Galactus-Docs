@@ -5,6 +5,7 @@ The bot has been developed in Python using the Nextcord module which is a fork o
 This documentation has been divided into three section for now and is very likely to be changed in the future to make it look nicer!
 
 * The Prefixes for Galactus bot are ```$```, ```g!```, ```G!```, ```?``` and ```? ```. For my examples I will always use \$, but it is interchangable with the others if you wish, and there is a large variety for people to decide what they like. 
+
 PLEASE NOTE - Slash commands can only use the ```/``` prefix (Be sure to make sure you're using Galactus and not Testing Galactus. 
    I will likely be using primarily slash commands only beyond the core commands. 
 
@@ -43,6 +44,10 @@ PLEASE NOTE - Slash commands can only use the ```/``` prefix (Be sure to make su
 * ```/ping``` - Get the bot's ping! 
 * ```/invite``` - Get the discord invite!
 * ```/factionlink``` - Get the faction link!
+* ```/statbook``` - Get the statbook link!
+* ```/tornstats``` - Get the tornstats link!
+* ```/factioncompanies``` - Gives links to all the faction companies!
+* ```/beyondthetabletops``` - Get info about the tabletop server!
 * ```/oc``` - Request for the Senate to complete your OC! 
 * ```/vault <amount: amount of money>``` - Request money from the faction vault, please use commas Ex. 1,000,000!
 * ```/xanax <amount: amount of xanax>``` - Request xanax for chain!
