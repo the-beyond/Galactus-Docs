@@ -28,6 +28,15 @@ PLEASE NOTE - Slash commands can only use the ```/``` prefix (Be sure to make su
 * ```$askgalactus <Yes or No Question>``` - Ask Almighty Galactus a question! (has a slash variation)
    
    Example. ```$askgalactus Does James like brooms?```
+* ```$calm``` - calm
+* ```$niceass``` - See a nice ass!
+* ```$shinyass``` - See a shiny ass!
+* ```$bitch``` - Tell a bitch you love them!
+* ```$rage``` - Rage rage fucking rage!
+* ```$eatadick``` - Tell someone to eat a dick!
+* ```$fuckyou``` - Say fuck you!
+* ```$excite``` - Be very excite!\
+* ```$conversions``` - A list of useful conversions!
 
 ## Utility Commands
 * ```$ping``` - Get the bot's ping! (has a slash variation)
@@ -53,9 +62,10 @@ PLEASE NOTE - Slash commands can only use the ```/``` prefix (Be sure to make su
 * ```/invite``` - Get the discord invite!
 * ```/factionlink``` - Get the faction link!
 * ```/statbook``` - Get the statbook link!
-* ```/tornstats``` - Get the tornstats link!
+* ```/tornstats``` - Get the tornstats links!
 * ```/factioncompanies``` - Gives links to all the faction companies!
 * ```/beyondthetabletops``` - Get info about the tabletop server!
+* ```/wiki <page: to select a page of the wiki>``` - Get the torn wiki!
 
 ## Moderation (Senate) Commands
 ### These commands will only function when used by Senate (or other applicable roles) and will merely throw an error at others. 
