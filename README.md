@@ -48,15 +48,22 @@ PLEASE NOTE - Slash commands can only use the ```/``` prefix (Be sure to make su
 * ```$xan [amount]``` or ```$xanax [amount]``` - Request xanax for chains! [amount defaults to 1 if left empty] (has a slash variation)
    
    Example. ```$xan 2```
+* ```$armory <item/items requested>``` - Request an item/items from the armory!
+
+   Example. ```$armory combat gear```
 
 ## Slash Commands (Utility)
 * ```/ping``` - Get the bot's ping! 
-* ```/oc``` - Request for the Senate to complete your OC! 
-* ```/vault <amount: amount of money>``` - Request money from the faction vault, please use commas Ex. 1,000,000
-* ```/xanax <amount: amount of xanax>``` - Request xanax for chain!
 * ```/documentation``` - Get the link for the bot's documentation!
 * ```/feedback <feedback_type: Dropdown menu of applicabe feedback types> <message: whatever you feedback message is> [anonymous: whether you want it anonymous or not]``` - Send feeback about the bot that will remain private!
 * ```/ticket <issue: describe the bug or issue> <message: Do you want messaged to discuss further?>``` - Submit a ticket about the bot!
+
+## slash Commands (Request)
+###All of the Slash commands are now part of the /request command to further streamline requests and to use less of the slash command limits!
+* ```/request oc [message: add an optional message]``` - Request for the Senate to complete your OC! 
+* ```/request vault <amount: amount of money, number only> [message: add an optional message]``` - Request money from the faction vault! 
+* ```/request xanax <amount: amount of xanax> [message: add an optional message]``` - Request xanax for chain!
+* ```/request armory <items: any item/items you wish to request from the armory> [message: add an optional message]``` - Request an item/items from the armory!
 
 ## Slash Commands (Links)
 * ```/invite``` - Get the discord invite!
@@ -70,3 +77,4 @@ PLEASE NOTE - Slash commands can only use the ```/``` prefix (Be sure to make su
 ## Moderation (Senate) Commands
 ### These commands will only function when used by Senate (or other applicable roles) and will merely throw an error at others. 
 * ```/division <member: Dropdown of members to assign> <division: dropdown of division names>``` - Assign a member to a division!
+* ```/request deny <member: member who placed the request> <request_type: type of request> <reason: reason for denying request> [channel: channel to send deny to if the member has DMs blocked]``` = Deny requests for any necessary reasons!
