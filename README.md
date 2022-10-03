@@ -64,6 +64,7 @@ PLEASE NOTE - Slash commands can only use the ```/``` prefix (Be sure to make su
 * ```/request vault <amount: amount of money, number only> [message: add an optional message]``` - Request money from the faction vault! 
 * ```/request xanax <amount: amount of xanax> [message: add an optional message]``` - Request xanax for chain!
 * ```/request armory <items: any item/items you wish to request from the armory> [message: add an optional message]``` - Request an item/items from the armory!
+* ```/request cancel [message: add an optional message]``` - Request for your most recent request to be cancelled!
 
 ## Slash Commands (Links)
 * ```/invite``` - Get the discord invite!
@@ -78,3 +79,4 @@ PLEASE NOTE - Slash commands can only use the ```/``` prefix (Be sure to make su
 ### These commands will only function when used by Senate (or other applicable roles) and will merely throw an error at others. 
 * ```/division <member: Dropdown of members to assign> <division: dropdown of division names>``` - Assign a member to a division!
 * ```/request deny <member: member who placed the request> <request_type: type of request> <reason: reason for denying request> [channel: channel to send deny to if the member has DMs blocked]``` = Deny requests for any necessary reasons!
+* ```/log pastmember <name: torn name> <id: torn id> <type: Kicked or Left> <reason: Reason/Notes>``` - To log past members!
