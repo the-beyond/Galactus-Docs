@@ -40,7 +40,7 @@ PLEASE NOTE - Slash commands can only use the ```/``` prefix (Be sure to make su
 
 ## Utility Commands
 * ```$ping``` - Get the bot's ping! (has a slash variation)
-* ```$documentation`````` or ```$docs``` - Get the link to the bot's documentation!
+* ```$documentation``` or ```$docs``` - Get the link to the bot's documentation!
 * ```$oc``` or ```$OC``` - Request for the Senate to complete your OC! (has a slash variation)
 * ```$vault <amount>``` - Request money from the faction vault, please use commas! (has a slash variation)
    
