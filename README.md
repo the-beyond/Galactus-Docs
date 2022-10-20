@@ -55,7 +55,7 @@ PLEASE NOTE - Slash commands can only use the ```/``` prefix (Be sure to make su
 ## Slash Commands (Utility)
 * ```/ping``` - Get the bot's ping! 
 * ```/documentation``` - Get the link for the bot's documentation!
-* ```/feedback <feedback_type: Dropdown menu of applicabe feedback types> <message: whatever you feedback message is> [anonymous: whether you want it anonymous or not]``` - Send feeback about the bot that will remain private!
+* ```/feedback bot <feedback_type: Dropdown menu of applicabe feedback types> <message: whatever you feedback message is> [anonymous: whether you want it anonymous or not]``` - Send feeback about the bot that will remain private!
 * ```/ticket <issue: describe the bug or issue> <message: Do you want messaged to discuss further?>``` - Submit a ticket about the bot!
 
 ## Slash Commands (Request)
@@ -71,7 +71,6 @@ PLEASE NOTE - Slash commands can only use the ```/``` prefix (Be sure to make su
 * ```/announce museum``` - Don't need to list the options for this, it's for me only but still wanted to list it!
 * ```/announce basic_embed <title: The embed title> <main_text: the main text block of the embed> [embed_color: optional color for the embed block, needs to be hexadecimal (see guide] [footer_text: optional footer text for the embed]``` - Send a basic embed message!
 * ```/announce advanced_embed <embed_title: The embed title> [main_text: the optional main text block of the embed] [embed_color: optional color for the embed block, needs to be hexadecimal (see guide] [field#_name: Enter the name for this # field] [field#_value: Enter the text for this # field, keep in mind if you use a field#_name you need a field#_value] x5 [footer_text: optional footer text for the embed]``` - Send an advanced embed message!
-* ```/announce senate_embed <embed_title: The embed title> <channel: select the channel to send to> [main_text: the optional main text block of the embed] [embed_color: optional color for the embed block, needs to be hexadecimal (see guide] [field#_name: Enter the name for this # field] [field#_value: Enter the text for this # field, keep in mind if you use a field#_name you need a field#_value] x5 [footer_text: optional footer text for the embed]``` - Send an advanced embed message to any channel! (Senate only)
 
 ## Slash Commands (Links)
 * ```/invite``` - Get the discord invite!
@@ -87,6 +86,8 @@ PLEASE NOTE - Slash commands can only use the ```/``` prefix (Be sure to make su
 * ```/division <member: Dropdown of members to assign> <division: dropdown of division names>``` - Assign a member to a division!
 * ```/request deny <member: member who placed the request> <request_type: type of request> <reason: reason for denying request> [channel: channel to send deny to if the member has DMs blocked]``` = Deny requests for any necessary reasons!
 * ```/log pastmember <name: torn name> <id: torn id> <type: Kicked or Left> <reason: Reason/Notes>``` - To log past members!
+* ```/announce senate_embed <embed_title: The embed title> <channel: select the channel to send to> [mention: Select a role to mention!] [main_text: the optional main text block of the embed] [embed_color: optional color for the embed block, needs to be hexadecimal (see guide] [field#_name: Enter the name for this # field] [field#_value: Enter the text for this # field, keep in mind if you use a field#_name you need a field#_value] x5 [footer_text: optional footer text for the embed]``` - Send an advanced embed message to any channel! (Senate only)
+* ```/announce dm <member: member to DM> <message: message to send>``` - Send a DM to a user with the bot! (Senate only)
 
 
 # A Quick and Dirty Guide to Embeds
