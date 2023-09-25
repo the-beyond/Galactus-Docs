@@ -41,16 +41,6 @@ PLEASE NOTE - Slash commands can only use the ```/``` prefix (Be sure to make su
 ## Utility Commands
 * ```$ping``` - Get the bot's ping! (has a slash variation)
 * ```$documentation``` or ```$docs``` - Get the link to the bot's documentation!
-* ```$oc``` or ```$OC``` - Request for the Senate to complete your OC! (has a slash variation)
-* ```$vault <amount>``` - Request money from the faction vault, please use commas! (has a slash variation)
-   
-   Example. ```$vault 100,000```
-* ```$xan [amount]``` or ```$xanax [amount]``` - Request xanax for chains! [amount defaults to 1 if left empty] (has a slash variation)
-   
-   Example. ```$xan 2```
-* ```$armory <item/items requested>``` - Request an item/items from the armory!
-
-   Example. ```$armory combat gear```
 
 ## Slash Commands (Utility)
 * ```/ping``` - Get the bot's ping! 
@@ -65,6 +55,11 @@ PLEASE NOTE - Slash commands can only use the ```/``` prefix (Be sure to make su
 * ```/request xanax <amount: amount of xanax> [message: add an optional message]``` - Request xanax for chain!
 * ```/request armory <items: any item/items you wish to request from the armory> [message: add an optional message]``` - Request an item/items from the armory!
 * ```/request cancel [message: add an optional message]``` - Request for your most recent request to be cancelled!
+* ```/request drugs <drug: type of drug> <amount: Amount 1-5> [message: add an optional message]``` - Request drugs (excluding xanax) up to 5 at a time!
+* ```/request donate <type: Money or Points> <amount: amount, number only> [message: add an optional message]``` - Send a donation request to the Senate!
+* ```/request transfer <type: Money or Points> <amount: amount, number only> <recipient: Select the person to send it to> [message: add an optional message]``` - Transfer Money or Points to another member!
+* ```/request points <amount: Number of points to request, number only> [message: add an optional message]``` - Send a points request to the Senate!
+* ```/request special <request: Write what you want to request> [message: add an optional message]``` - Request something that's not covered by another command!
 
 ## Slash Commands (Announce)
 ### All of these slash commands are part of the /announce command. For a guide to embeds see the bottom of this documentation!
