@@ -42,6 +42,12 @@ PLEASE NOTE - Slash commands can only use the ```/``` prefix (Be sure to make su
 * ```$ping``` - Get the bot's ping! (has a slash variation)
 * ```$documentation``` or ```$docs``` - Get the link to the bot's documentation!
 
+## Slash Commands (Register)
+* ```/register current_member <torn_id: Torn ID>``` - Register yourself with the bot!
+* ```/register new_member <torn_id: Torn ID>``` - Join the server as a new member!
+* ```/register new_friend <torn_id: Torn ID>``` - Join the server as a friend who plays torn!
+* ```/register gamer``` - Join the server as a friend who doesn't play torn!
+
 ## Slash Commands (Utility)
 * ```/ping``` - Get the bot's ping! 
 * ```/documentation``` - Get the link for the bot's documentation!
