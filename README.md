@@ -48,6 +48,9 @@ PLEASE NOTE - Slash commands can only use the ```/``` prefix (Be sure to make su
 * ```/register new_friend <torn_id: Torn ID>``` - Join the server as a friend who plays torn!
 * ```/register gamer``` - Join the server as a friend who doesn't play torn!
 
+## Slash Commands (Calculate)
+* ```/calculate se_manual <stat: The stat you want to train> <se_count: number of SE to use>``` - See how much you will gain using SEs!
+
 ## Slash Commands (Utility)
 * ```/ping``` - Get the bot's ping! 
 * ```/documentation``` - Get the link for the bot's documentation!
